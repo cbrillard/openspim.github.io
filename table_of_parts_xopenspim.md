@@ -5,9 +5,9 @@ description: Table of parts
 ---
 <span style="color:#4169E1; font-weight:bold"> This site lists the additional parts required to assemble an X-OpenSPIM configuration (four-lens geometry) with dual sided illumination and dual sided detection as shown in the image below and is an upgrade from the original <a href=\Table_of_parts>L-OpenSPIM design</a>.</span>
 
-The described X-OpenSPIM system is equipped with two [Andor sCMOS Neo 5.5 camera](https://andor.oxinst.com/products/scmos-camera-series/neo-5-5-scmos), which together with the Hamamatsu Flash4 and PCO Edge cameras are known to work with µManager’s <a href="https://micro-manager.org/wiki/Utilities#Multi-Camera">Multi-Camera</a> function.
+The described X-OpenSPIM system is equipped with two [Andor sCMOS Neo 5.5 camera](https://andor.oxinst.com/products/scmos-camera-series/neo-5-5-scmos), which together with the Hamamatsu Flash4 and PCO Edge cameras, are known to work with µManager’s <a href="https://micro-manager.org/wiki/Utilities#Multi-Camera">Multi-Camera</a> function.
 
-The two laser lines (488 and 561) come from a multiple wavelength laser system <a href=https://www.vortranlaser.com>Stradus VersaLase</a> and are under the control of an ArduinoUNO board (camera-laser synchronization).
+The two laser lines (488 and 561) come from a multiple wavelength laser system <a href=https://www.vortranlaser.com>Stradus VersaLase</a> and are under the control of an Arduino UNO board (camera-laser synchronization).
 
 Some self-made parts, including an X-OpenSPIM acquisition chamber, can be purchased from <a href="https://www.pfde.co.uk/p/698089/openspim-microscope-parts">Pieter Fourie Design and Engineering</a>.
 
@@ -609,7 +609,7 @@ Some self-made parts, including an X-OpenSPIM acquisition chamber, can be purcha
 <tr class="odd">
 <td align="center">OpenSPIM</td>
 <td align="center" bgcolor="#98FB98">self made</td>
-<td align="center">Teflon Spacer<br/>These 1 mm spacers made out of teflon help to thermally insulated the objectives from the heat sink </td>
+<td align="center">Teflon Spacer<br/>These 1 mm spacers made out of teflon help to thermally insulate the objectives from the heat sink </td>
 <td>
 <a href="images/µOpenSPIM/Cooling/TeflonSpacer/TeflonSpacer.stl">&nbsp;TeflonSpacer.stl</a><br/>
 <a href="images/µOpenSPIM/Cooling/TeflonSpacer/TeflonSpacer.stp">&nbsp;TeflonSpacer.step</a><br/>
