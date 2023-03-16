@@ -444,9 +444,9 @@ Some self-made parts, including an X-OpenSPIM acquisition chamber, can be purcha
 <td align="center" bgcolor="#98FB98">self made</td>
 <td align="center">Modified objective holder ring (part 1)<br>Click <a href="/images/µOpenSPIM/ObjectiveHolder_assy/ObjectiveHolder-TailAssy.png">here</a> to view a rendering of the assembled objective holder ring (part 1-3. </td>
 <td>
-<a href="images/µOpenSPIM/ObjectiveHolder_ring/ObjectiveHolder_Ring.stl">&nbsp;ObjectiveHolder_Ring.stl</a><br/>
-<a href="images/µOpenSPIM/ObjectiveHolder_ring/ObjectiveHolder_Ring.stp">&nbsp;ObjectiveHolder_Ring.stp</a><br/>
-<a href="images/µOpenSPIM/ObjectiveHolder_ring/ObjectiveHolder_Ring.pdf">&nbsp;ObjectiveHolder_Ring.pdf</a>
+<a href="images/µOpenSPIM/ObjectiveHolder_ring/SampleChamber_4Objective_Nikon40x_Holder_ring-TailModif_M25.stl">&nbsp;ObjectiveHolder_Ring.stl</a><br/>
+<a href="images/µOpenSPIM/ObjectiveHolder_ring/SampleChamber_4Objective_Nikon40x_Holder_ring-TailModif_M25.stp">&nbsp;ObjectiveHolder_Ring.stp</a><br/>
+<a href="images/µOpenSPIM/ObjectiveHolder_ring/SampleChamber_4Objective_Nikon40x_Holder_ring-TailModif_M25.pdf">&nbsp;ObjectiveHolder_Ring.pdf</a>
 </td>
 <td align="center"><img src="images/µOpenSPIM/ObjectiveHolder_ring/ObjectiveHolder_Ring.png" width="150"></td>
 <td align="center">4</td>
